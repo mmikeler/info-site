@@ -143,6 +143,9 @@
     padding: 12px 0px;
     font-size: 13px;
     margin-left: 9px; }
+  .navbar {
+    background: #CFE0ED;
+    background: linear-gradient(95deg, #CFE0ED 40%, #CFE0ED 100%) !important;}
   .pt-70 {
     padding-top: 20px; }
   .showcase-area .pr-0, .px-0 {
@@ -160,7 +163,8 @@
   .bg-inverse {
     background: #191c1e; }
   .navbar {
-    padding: 0; }
+    background: #CFE0ED;
+    background: linear-gradient(95deg, #CFE0ED 40%, #CFE0ED 100%) !important;}
   .navbar-brand img {
     width: 100px; } }
 
@@ -168,6 +172,8 @@
   .bg-inverse {
     background: #191c1e; }
   .navbar {
+    background: #CFE0ED;
+    background: linear-gradient(95deg, #CFE0ED 40%, #CFE0ED 100%) !important;
     padding: 0; }
   .navbar-brand img {
     width: 100px; }
@@ -202,7 +208,7 @@
     color: #fff;
     -webkit-box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
     box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
-    width: 122px;
+    width: auto;
     height: 45px;
     padding: 15px 15px; }
   .hero-area .intro-img {
